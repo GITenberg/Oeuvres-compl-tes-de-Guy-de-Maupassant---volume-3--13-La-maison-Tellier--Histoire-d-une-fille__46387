@@ -1,0 +1,37 @@
+_repo: Oeuvres-compl-tes-de-Guy-de-Maupassant---volume-3--13-La-maison-Tellier--Histoire-d-une-fille__46387
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46387-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouvelles
+gutenberg_issued: '2014-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46387'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+tableOfContents: La maison Tellier -- Histoire d'une fille de ferme -- Une partie
+  de campagne -- Le papa de Simon -- En famille -- Sur l'eau -- La femme de Paul --
+  Au printemps -- Les Tombales -- Ma femme -- Les conseils d'une grand'mère -- Opinion
+  de la Presse sur La maison Tellier.
+title: Œuvres complètes de Guy de Maupassant - volume 03
+url: http://www.gutenberg.org/ebooks/46387
